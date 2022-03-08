@@ -1,0 +1,2 @@
+# BlogPhotos
+MyBlogPhotos for CDN
